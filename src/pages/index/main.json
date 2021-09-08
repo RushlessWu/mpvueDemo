@@ -1,0 +1,15 @@
+{
+  "usingComponents":{
+    "van-cell-group":"/static/vant/cell-group/index",
+    "van-field":"/static/vant/field/index",
+    "van-calendar":"/static/vant/calendar",
+    "van-cell":"/static/vant/cell",
+    "van-notice-bar":"/static/vant/notice-bar",
+    "van-button":"/static/vant/button",
+    "van-row":"/static/vant/row",
+    "van-col":"/static/vant/col",
+    "van-radio":"/static/vant/radio",
+    "van-radio-group":"/static/vant/radio-group",
+    "van-dialog":"/static/vant/dialog"
+  }
+}
