@@ -1,6 +1,7 @@
 # test
 
 > A Mpvue project
+> node_moudle不会被打包进dist,使用vant时应把vant放入static静态目录下,并勾选es6转es5
 
 ## Build Setup
 
