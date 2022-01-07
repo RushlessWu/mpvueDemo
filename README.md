@@ -1,6 +1,8 @@
 ## mpvue
 
 > A Mpvue project
+>
+> tips:使用vant ui框架一定要设置es6转es5,并将vant整个框架放在static中,微信小程序打包不会把node_modules打包进去
 
 
 > node_moudle不会被打包进dist,使用vant时应把vant放入static静态目录下,并勾选es6转es5
